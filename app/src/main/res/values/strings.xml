@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Blood Donation</string>
+
+
+    <string-array name="Blood_group_type">
+        <item>Blood type</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+
+    <string-array name="Gender">
+        <item>Select Gender</item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>Other</item>
+        <item>Prefer Not to say</item>
+    </string-array>
+
+    <string-array name="Country">
+        <item>Choose country</item>
+        <item>CA</item>
+        <item>IN</item>
+        <item>US</item>
+        <item>AUS</item>
+        <item>UK</item>
+        <item>FR</item>
+        <item>CN</item>
+    </string-array>
+
+    <string-array name="UserType">
+        <item>User Type</item>
+        <item>Donar</item>
+        <item>Recipient</item>
+    </string-array>
+
+</resources>
